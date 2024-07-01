@@ -15,3 +15,8 @@
         background-position: 0% 50%;
     }
 }
+
+.btn.btn-outline-secondary.btn-lg.px-4 {
+    color: white;
+    border: solid white 2px;
+}
