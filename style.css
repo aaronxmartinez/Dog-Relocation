@@ -20,3 +20,8 @@
     color: white;
     border: solid white 2px;
 }
+
+.btn.btn-outline-secondary.btn-lg.px-4:hover {
+    color: black;
+    background-color: white;
+}
