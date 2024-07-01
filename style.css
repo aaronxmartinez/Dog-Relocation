@@ -16,6 +16,17 @@
     }
 }
 
+.btn.btn-primary.btn-lg.px-4.me-md-2 {
+    background-color: white;
+    color: black;
+    border: solid white 2px;
+}
+
+.btn.btn-primary.btn-lg.px-4.me-md-2:hover {
+    background-color: lightgray;
+    border: solid lightgray 2px;
+}
+
 .btn.btn-outline-secondary.btn-lg.px-4 {
     color: white;
     border: solid white 2px;
