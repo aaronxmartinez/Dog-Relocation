@@ -42,7 +42,7 @@
 }
 
 #pricing {
-    margin: 20px;
+    margin: 30px;
 }
 
 .w-100.btn.btn-lg.btn-outline-primary {
@@ -63,4 +63,11 @@
 
 .w-100.btn.btn-lg.btn-primary:hover {
     background-color: rgb(34, 33, 33);
+}
+
+#footer {
+
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
 }
