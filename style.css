@@ -40,3 +40,14 @@
 .profile-img.mt-5 {
     border-radius: 50%;
 }
+
+.w-100.btn.btn-lg.btn-outline-primary {
+    color: black;
+    border: solid black 2px;
+}
+
+.w-100.btn.btn-lg.btn-outline-primary:hover {
+    color: white;
+    background-color: black;
+}
+
