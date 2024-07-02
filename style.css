@@ -51,3 +51,13 @@
     background-color: black;
 }
 
+.w-100.btn.btn-lg.btn-primary {
+    color: white;
+    background-color: black;
+    border: solid black 2px;
+}
+
+.w-100.btn.btn-lg.btn-primary:hover {
+    background-color: rgb(34, 33, 33);
+}
+
